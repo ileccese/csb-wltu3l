@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"H99C":[function(require,module,exports) {
 "use strict";require("./styles.css"),document.getElementById("qv-button").onclick=function(){window.parent.postMessage({type:"embeddedAppAPIMessage",method:"navigateToQuickview",methodVersion:"1.0.0",params:{patientId:"5"}},"https://athenahealth.com")};
 },{"./styles.css":"D9Nj"}]},{},["H99C"], null)
-//# sourceMappingURL=/csb-wltu3l/src.51458c4e.js.map
+//# sourceMappingURL=/csb-wltu3l/src.be391a0e.js.map
